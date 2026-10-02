@@ -26,9 +26,11 @@ why the name is what it is. The libraries below are the part that generalised.
   — TypeScript, npm. Shared Next.js + MUI building blocks for a community
   website: an SSR-safe colour-mode provider and toggle, prop-driven top and
   bottom navigation bars, a `next/link` bridge for MUI's `component` prop,
-  per-page SEO metadata, a "temporarily unavailable" panel, and pure builders for
-  `sitemap.xml` and `robots.txt`. It knows nothing about what your community is
-  about; you pass in the brand, the nav items and the links.
+  per-page SEO metadata, a "temporarily unavailable" panel, pure builders for
+  `sitemap.xml` and `robots.txt`, and catalogue search, filter and sort helpers
+  with an icon grid and filter bar to show the result. It knows nothing about
+  what your community is about; you pass in the brand, the nav items and the
+  links.
 
 - **[web-guards](https://github.com/kingdom-community/web-guards)** — TypeScript,
   npm, no runtime dependencies. Fail-closed security primitives for a small
