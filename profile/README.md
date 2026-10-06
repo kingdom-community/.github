@@ -14,6 +14,10 @@ use them for their own.
 The organization also hosts that community's own private repositories, which is
 why the name is what it is. The libraries below are the part that generalised.
 
+That community is Kingdom: First Era, a casual, unwhitelisted survival roleplay
+Minecraft server: <https://kingdomfirstera.com>. Its player guide is public at
+[kfe-player-guide](https://github.com/kingdom-community/kfe-player-guide).
+
 ## The libraries
 
 - **[minecraft-server-ping](https://github.com/kingdom-community/minecraft-server-ping)**
@@ -78,3 +82,7 @@ does not do as well as what it does.
 ## License
 
 MIT, all six. Copyright (c) 2026 Daniel McCoy Stephenson.
+
+---
+
+More by Daniel Stephenson → https://danielstephenson.dev
